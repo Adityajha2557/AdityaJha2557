@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=ADITYA%20JHA&fontSize=46&fontColor=58A6FF&fontAlignY=42&desc=AI/ML%20Engineer%20%7C%20Cloud-Native%20Systems&descAlignY=62&descColor=8B949E&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/aditya-jha">
+<a href="https://www.linkedin.com/in/aditya-jha-411b62424/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+intelligent+systems+end+to+end;LLM+Integration+%7C+Structured+Output+%7C+RAG;Distributed+Data+%7C+PySpark+%2F+Hadoop;Cloud+Deployment+on+AWS+%7C+FastAPI+%2B+REST" alt="Typing SVG" />
 </a>
 
@@ -195,8 +195,7 @@ $ currently_exploring  → RAG & GraphRAG, GPU profiling, inference runtimes
 ## `> github_analytics`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaJha2557&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=F0F6FC" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJha2557&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" height="165"/>
+<img src="https://raw.githubusercontent.com/AdityaJha2557/AdityaJha2557/main/metrics.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -213,7 +212,7 @@ $ currently_exploring  → RAG & GraphRAG, GPU profiling, inference runtimes
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/aditya--jha-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/aditya-jha)
+[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/aditya--jha-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://www.linkedin.com/in/aditya-jha-411b62424/)
 [![GitHub](https://img.shields.io/badge/-github.com/AdityaJha2557-0D1117?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/AdityaJha2557)
 [![Email](https://img.shields.io/badge/-adityeahrnc1@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:adityeahrnc1@gmail.com)
 

@@ -1,0 +1,21 @@
+name: Generate Metrics SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refreshes every 6 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          base: header, activity, community, repositories, metadata
